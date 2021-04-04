@@ -7,3 +7,6 @@ function test2() {
 function printOut(s) {
   console.log(s);
 }
+function test3() {
+  console.log("test3 from main branch");
+}
